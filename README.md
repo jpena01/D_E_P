@@ -20,7 +20,7 @@ F O R W A R D
 ## Getting Started
 ```bash
 git clone https://github.com/Jpena01/D_E_P.git
-cd smart_daily_planner
+cd D_E_P
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
